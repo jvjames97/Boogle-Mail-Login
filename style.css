@@ -1,0 +1,129 @@
+.main {
+    width: 400px;
+    height: auto;
+    padding: 30px;
+    margin-top: 11%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    border: 1px solid #cccccc;
+    border-radius: 15px;
+}
+.boogle-logo {
+    letter-spacing: 0.001em;
+    text-align: center;
+}
+#B {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 20px;
+}
+#first-o {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-size: 20px;
+}
+#second-o {
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    font-size: 20px;
+}
+#g {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 20px;
+}
+#l {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 20px;
+}
+#e {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-size: 20px;
+}
+h1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+}
+h2 {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    text-align: center;
+}
+input {
+    width: 360px;
+    padding: 10px;
+    margin: 10px 17px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+#forgotemail {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    font-weight: bolder;
+    color: blue;
+    padding: 15px 0px;
+}
+p {
+    margin: 0px 17px;
+    padding: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #555555;
+}
+#learnmore {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    font-weight: bolder;
+    padding: 0px 0px 15px 0px;
+}
+#createaccount {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    font-weight: bolder;
+    display: inline-block;
+}
+#button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    font-weight: bolder;
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin: 0px 0px 20px 130px;
+    display: inline-block;
+}
+.footer {
+    text-align: center;
+}
+.languagelist {
+    color: #555555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    border: none;
+}
+.footeroptions {
+    display: inline-block;
+}
+.footeroptions a {
+    color: #555555;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+}
+a {
+    text-decoration: none;
+}
